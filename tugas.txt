@@ -1,0 +1,31 @@
+Array of Object
+- show all
+- push
+- delete
+- edit
+
+js react rn
+- variabel dan fungsi -> camelCase
+- komponen -> PascalCase
+
+let arrayObject = [
+    {
+        schoolName: SMP 16 Malang,
+        yearIn: 2013,
+        yearOut: 2016
+    },
+    {
+        schoolName: SMK 6 Malang,
+        yearIn: 2016,
+        yearOut: 2019
+    }
+]
+
+let pushArray = {
+    schoolName: Institut Teknologi Sepuluh Nopember,
+    yearIn: 2019,
+    yearOut: 2024
+}
+
+Task Week 1:
+Ada di Folder Tugas Week 1
